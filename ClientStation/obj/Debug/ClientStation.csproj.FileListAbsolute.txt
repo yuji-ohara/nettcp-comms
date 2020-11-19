@@ -1,0 +1,16 @@
+C:\D\Ohara\nettcp-comms\ClientStation\bin\Debug\ClientStation.exe.config
+C:\D\Ohara\nettcp-comms\ClientStation\bin\Debug\ClientStation.exe
+C:\D\Ohara\nettcp-comms\ClientStation\bin\Debug\ClientStation.pdb
+C:\D\Ohara\nettcp-comms\ClientStation\obj\Debug\ClientStation.csprojAssemblyReference.cache
+C:\D\Ohara\nettcp-comms\ClientStation\obj\Debug\ClientStation.Properties.Resources.resources
+C:\D\Ohara\nettcp-comms\ClientStation\obj\Debug\ClientStation.csproj.GenerateResource.cache
+C:\D\Ohara\nettcp-comms\ClientStation\obj\Debug\ClientStation.csproj.CoreCompileInputs.cache
+C:\D\Ohara\nettcp-comms\ClientStation\obj\Debug\ClientStation.exe
+C:\D\Ohara\nettcp-comms\ClientStation\obj\Debug\ClientStation.pdb
+C:\D\Ohara\nettcp-comms\ClientStation\bin\Debug\Newtonsoft.Json.dll
+C:\D\Ohara\nettcp-comms\ClientStation\bin\Debug\Newtonsoft.Json.xml
+C:\D\Ohara\nettcp-comms\ClientStation\obj\Debug\ClientStation.Form1.resources
+C:\D\Ohara\nettcp-comms\ClientStation\obj\Debug\ClientStation.csproj.CopyComplete
+C:\D\Ohara\nettcp-comms\ClientStation\bin\Debug\MyTcpServer.exe
+C:\D\Ohara\nettcp-comms\ClientStation\bin\Debug\MyTcpServer.pdb
+C:\D\Ohara\nettcp-comms\ClientStation\bin\Debug\MyTcpServer.exe.config

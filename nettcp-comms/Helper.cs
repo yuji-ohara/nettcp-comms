@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace nettcp_comms
+namespace MyTcpServer
 {
-    public class Helper
+    internal class Helper
     {
         public TestModel CreateTestModel(int id)
         {

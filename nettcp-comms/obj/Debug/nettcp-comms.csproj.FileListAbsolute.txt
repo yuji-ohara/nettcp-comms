@@ -1,0 +1,10 @@
+C:\D\Ohara\nettcp-comms\nettcp-comms\bin\Debug\nettcp-comms.exe.config
+C:\D\Ohara\nettcp-comms\nettcp-comms\bin\Debug\nettcp-comms.exe
+C:\D\Ohara\nettcp-comms\nettcp-comms\bin\Debug\nettcp-comms.pdb
+C:\D\Ohara\nettcp-comms\nettcp-comms\bin\Debug\Newtonsoft.Json.dll
+C:\D\Ohara\nettcp-comms\nettcp-comms\bin\Debug\Newtonsoft.Json.xml
+C:\D\Ohara\nettcp-comms\nettcp-comms\obj\Debug\nettcp-comms.csprojAssemblyReference.cache
+C:\D\Ohara\nettcp-comms\nettcp-comms\obj\Debug\nettcp-comms.csproj.CoreCompileInputs.cache
+C:\D\Ohara\nettcp-comms\nettcp-comms\obj\Debug\nettcp-comms.csproj.CopyComplete
+C:\D\Ohara\nettcp-comms\nettcp-comms\obj\Debug\nettcp-comms.exe
+C:\D\Ohara\nettcp-comms\nettcp-comms\obj\Debug\nettcp-comms.pdb

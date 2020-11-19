@@ -1,6 +1,6 @@
 ﻿using System.ServiceModel;
 
-namespace nettcp_comms
+namespace MyTcpServer
 {
     [ServiceContract]
     public interface IServer

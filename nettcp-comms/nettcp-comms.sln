@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nettcp-comms", "nettcp-comms.csproj", "{D419EA42-BA97-4804-95D1-661D9603AE3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTcpServer", "MyTcpServer.csproj", "{D419EA42-BA97-4804-95D1-661D9603AE3B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientStation", "..\ClientStation\ClientStation.csproj", "{6697D3A4-67F7-4FEA-BE60-559CB3935B5A}"
 EndProject

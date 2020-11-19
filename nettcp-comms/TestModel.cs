@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace nettcp_comms
+namespace MyTcpServer
 {
     public class TestModel
     {

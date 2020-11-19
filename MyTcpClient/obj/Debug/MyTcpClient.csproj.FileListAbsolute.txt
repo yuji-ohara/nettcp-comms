@@ -1,0 +1,12 @@
+C:\D\Ohara\nettcp-comms\MyTcpClient\bin\Debug\MyTcpClient.dll
+C:\D\Ohara\nettcp-comms\MyTcpClient\bin\Debug\MyTcpClient.pdb
+C:\D\Ohara\nettcp-comms\MyTcpClient\bin\Debug\nettcp-comms.exe
+C:\D\Ohara\nettcp-comms\MyTcpClient\bin\Debug\Newtonsoft.Json.dll
+C:\D\Ohara\nettcp-comms\MyTcpClient\bin\Debug\nettcp-comms.pdb
+C:\D\Ohara\nettcp-comms\MyTcpClient\bin\Debug\nettcp-comms.exe.config
+C:\D\Ohara\nettcp-comms\MyTcpClient\bin\Debug\Newtonsoft.Json.xml
+C:\D\Ohara\nettcp-comms\MyTcpClient\obj\Debug\MyTcpClient.csprojAssemblyReference.cache
+C:\D\Ohara\nettcp-comms\MyTcpClient\obj\Debug\MyTcpClient.csproj.CoreCompileInputs.cache
+C:\D\Ohara\nettcp-comms\MyTcpClient\obj\Debug\MyTcpClient.csproj.CopyComplete
+C:\D\Ohara\nettcp-comms\MyTcpClient\obj\Debug\MyTcpClient.dll
+C:\D\Ohara\nettcp-comms\MyTcpClient\obj\Debug\MyTcpClient.pdb
